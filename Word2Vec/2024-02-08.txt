@@ -1,0 +1,16 @@
+spit
+deck
+rose
+arrow
+target
+belt
+dragon
+quiver
+clock
+gin
+anchor
+bridge
+slug
+war
+bow
+heart
